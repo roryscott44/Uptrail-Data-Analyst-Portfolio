@@ -14,7 +14,7 @@ Welcome! This repo hosts my completed **Uptrail Data Analyst Internship** work �
 ### 1) Project 1 — *Customer Sign-Up Behaviour & Data Quality Audit*
 - **Goal:** One sentence on the business question.
 - **Data & Methods:**
-- **Deliverable:** [`projects/project-1/Week 1 - Customer Sign-Up Behaviour & Data Quality Audit - Rory Scott.pdf`](projects/project-1/Week 1 - Customer Sign-Up Behaviour & Data Quality Audit - Rory Scott) *(replace after uploading)*
+- **Deliverable:** [`projects/project-1/Week 1 - Customer Sign-Up Behaviour & Data Quality Audit - Rory Scott.pdf`](projects/project-1/Week 1 - Customer Sign-Up Behaviour & Data Quality Audit - Rory Scott)
 
 ### 2) Project 2 — *Sales and Customer Behaviour Insights*
 - **Goal:** …
@@ -24,7 +24,7 @@ Welcome! This repo hosts my completed **Uptrail Data Analyst Internship** work �
 ### 3) Project 3 — *Churn Prediction for StreamWorks Media*
 - **Goal:** …
 - **Data & Methods:** …
-- **Deliverable:** [`projects/project-3/Week 3 - Churn Prediction for StreamWorks Media - Rory Scott.pdf`](Week 3 - Churn Prediction for StreamWorks Media - Rory Scott)
+- **Deliverable:** [`projects/project-3/Week 3 - Churn Prediction for StreamWorks Media - Rory Scott.pdf`](projects/project-3/Week%203%20-%20Churn%20Prediction%20for%20StreamWorks%20Media%20-%20Rory%20Scott.pdf)
 
 ### 4) Project 4 — *Business Intelligence Dashboard for TechHub Retail*
 - **Goal:** …
