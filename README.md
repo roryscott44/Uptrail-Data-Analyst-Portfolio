@@ -1,6 +1,6 @@
 # Data Analytics Portfolio — Uptrail Internship (2025)
 
-Hello! This repo hosts my completed **Uptrail Data Analyst Internship** work — including **4 projects** and **two certifications** (Completion + Excellence). It’s designed for quick review: each project has a short summary and a link to the PDF deliverable.
+Hello! This repo hosts my completed **Uptrail Data Analyst Internship projects** and **two certifications** (Completion + Excellence). It’s designed for quick review: each project has a short summary and a link to the PDF deliverable.
 
 ##  Quick Links
 -  **Projects:** see [`/projects`](projects)
