@@ -14,12 +14,12 @@ Welcome! This repo hosts my completed **Uptrail Data Analyst Internship** work �
 ### 1) Project 1 — *Customer Sign-Up Behaviour & Data Quality Audit*
 - **Goal:** One sentence on the business question.
 - **Data & Methods:**
-- **Deliverable:** [`projects/project-1/Week 1 - Customer Sign-Up Behaviour & Data Quality Audit - Rory Scott.pdf`](projects/project-1/Week 1 - Customer Sign-Up Behaviour & Data Quality Audit - Rory Scott)
+- **Deliverable:** [`projects/project-1/Week 1 - Customer Sign-Up Behaviour & Data Quality Audit - Rory Scott.pdf`](projects/project-1/Week%201%20-%20Customer%20Sign-Up%20Behaviour%20&%20Data%20Quality%20Audit%20-%20Rory%20Scott.pdf)
 
 ### 2) Project 2 — *Sales and Customer Behaviour Insights*
 - **Goal:** …
 - **Data & Methods:** …
-- **Deliverable:** [`projects/project-2/Week 2 - Sales and Customer Behaviour Insights - Rory Scott.pdf`](projects/project-2/Week 2 - Sales and Customer Behaviour Insights - Rory Scott)
+- **Deliverable:** [`projects/project-2/Week 2 - Sales and Customer Behaviour Insights - Rory Scott.pdf`](projects/project-2/Week%202%20-%20Sales%20and%20Customer%20Behaviour%20Insights%20-%20Rory%20Scott.pdf)
 
 ### 3) Project 3 — *Churn Prediction for StreamWorks Media*
 - **Goal:** …
@@ -29,7 +29,7 @@ Welcome! This repo hosts my completed **Uptrail Data Analyst Internship** work �
 ### 4) Project 4 — *Business Intelligence Dashboard for TechHub Retail*
 - **Goal:** …
 - **Data & Methods:** …
-- **Deliverable:** [`projects/project-4/Week 4 - Business Intelligence Dashboard for TechHub Retail - Rory Scott.pdf`](projects/project-4/Week 4 - Business Intelligence Dashboard for TechHub Retail - Rory Scott.pdf)
+- **Deliverable:** [`projects/project-4/Week 4 - Business Intelligence Dashboard for TechHub Retail - Rory Scott.pdf`](projects/project-4/Week%204%20-%20Business%20Intelligence%20Dashboard%20for%20TechHub%20Retail%20-%20Rory%20Scott.pdf)
 
 ---
 
